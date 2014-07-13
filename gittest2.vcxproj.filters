@@ -18,5 +18,11 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="hihi.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+>>>>>>> 57dcfbea2ec6a71308442a74c899786c5bf75fb0
   </ItemGroup>
 </Project>
